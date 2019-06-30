@@ -1,0 +1,26 @@
+/*colores: #669DA4 #414F4C #99ACAB #A29268*/
+
+body{
+  background-image: linear-gradient(to right, #A29268, #669DA4);
+}
+h1{
+  font-size: 4vw;
+}
+h2{
+  font-size: 2.75vw;
+}
+.encabezado{
+  background-image: url(../assets/roth1.svg);
+  padding-top: 84.7%;
+}
+
+.titulo{
+  top: 60vw;
+  position:absolute;
+  left: 40%;
+  width: 60%;
+  line-height: 5vw;
+  font-family: "Ubuntu", Arial, Helvetica, sans-serif;
+  color: #414F4C;
+  text-shadow: 0.05vw 0.05vw 0.1vw #222
+}
